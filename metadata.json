@@ -1,0 +1,6 @@
+{
+  "name": "QR Alarm",
+  "description": "QR & Barcode alarm clock with custom schedules, emergency text dismiss, gentle fade-in, and 30s walking mute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
